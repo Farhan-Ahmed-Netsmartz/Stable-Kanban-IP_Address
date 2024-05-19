@@ -3,7 +3,7 @@ services:
   kanban-postgres:
     image: "postgres:9.6-alpine" 
     container_name: kanban-postgres
-    volumes:
+    volumes: 
       - kanban-data:/var/lib/postgresql/data
     ports:
       - 5432:5432
