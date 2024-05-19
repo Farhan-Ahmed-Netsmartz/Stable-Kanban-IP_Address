@@ -1,4 +1,4 @@
-services:
+ services:
  
   kanban-postgres:
     image: "postgres:9.6-alpine" 
