@@ -32,7 +32,7 @@ services:
     environment:
       - IP_ADDRESS=localhost
     ports:
-      - 4200:80
+      - 4200:80 
     links:
       - kanban-app
 
