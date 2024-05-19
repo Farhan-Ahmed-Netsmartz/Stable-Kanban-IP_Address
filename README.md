@@ -108,6 +108,7 @@ It can be entered using link: **http://${IP_ADDRESS}:4200/**
 444
 555
 666
+777
 # --------------------------------------------------------------------------------------------
 
 # Steps to run Local Environment: 
