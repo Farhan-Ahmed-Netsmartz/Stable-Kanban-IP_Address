@@ -118,3 +118,8 @@ It can be entered using link: **http://${IP_ADDRESS}:4200/**
 8. Now run the compose file: docker-compose up -d
 9. This will recreate the images that are changed and run them.
 10. Now the changes are reflecting on the browser.
+
+
+
+## -------------------------------
+You have to create credentials in jenkins to use sshagent and pass the id of the vm credentials to the jenkins file.
